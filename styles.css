@@ -301,7 +301,8 @@ p {
 }
 
 .contact textarea {
-    min-height: 115px
+    min-height: 115px;
+    resize: none;
 }
 
 .cons {
